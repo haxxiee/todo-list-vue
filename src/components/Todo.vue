@@ -57,7 +57,7 @@ export default {
   </form>
 
   <div
-    v-for="(todo, index) in todos"
+    v-for="todo in todos"
     :key="todo.id"
     class="flex justify-center items-center"
   >
