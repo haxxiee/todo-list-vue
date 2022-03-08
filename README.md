@@ -1,6 +1,6 @@
 # Todo list with VueJS
 
-Made with Node, Vue and TailWindCSS.
+Made with Node, Vue, Vite and TailWindCSS.
 School project, JavaScript Frameworks.
 Live version online here -> [https://stoic-kepler-ffa00c.netlify.app](https://stoic-kepler-ffa00c.netlify.app)
 

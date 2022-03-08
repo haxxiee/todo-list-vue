@@ -8,6 +8,7 @@ export default {
     const todos = ref([]);
 
     function handleSubmit() {
+      if (inputText.value === "") return;
       todos.value.unshift({
         id: uuidv4(),
         text: inputText.value,
